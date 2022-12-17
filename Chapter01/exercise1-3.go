@@ -1,4 +1,5 @@
 //	Compare rough execution times of examples from Chapter 1.
+//	NOTE: always returns 0, need to use actual benchmarking.
 package main
 
 import (
